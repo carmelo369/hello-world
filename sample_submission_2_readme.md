@@ -1,4 +1,4 @@
-# Lab 2 : Flashcard App (Unobliviate)
+# Lab 2 
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
@@ -14,4 +14,4 @@
 - [ ] User can also enter multiple choice answers when creating a card
 - [ ] App is further styled and customized!
 
-<img src="https://i.imgur.com/ikHO0e2.gif" width="200" height="400" />  
+<img src="http://g.recordit.co/SnQOy1jMr0.gif" width="200" height="400" />  
